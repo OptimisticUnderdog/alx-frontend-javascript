@@ -6,4 +6,3 @@ export default function hasValuesFromArray(s, arr) {
   }
   return true;
 }
-
